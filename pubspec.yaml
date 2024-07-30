@@ -1,0 +1,29 @@
+name: my_resturant_dash
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.6
+  easy_sidemenu: null
+  file_picker: null
+  flutter:
+    sdk: flutter
+  flutter_colorpicker: null
+  flutter_screenutil: ^5.9.0
+  get: null
+  go_router: ^14.2.1
+  hive: null
+  hive_flutter: null
+  http: null
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+  hive_generator: null
+
+flutter:
+  uses-material-design: true
